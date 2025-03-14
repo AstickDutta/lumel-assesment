@@ -1,4 +1,4 @@
-# Sales Backend API
+# Lumel Assessment
 
 This is a backend API for managing and analyzing sales data. It provides endpoints for data refresh, revenue calculations, and order management.
 
@@ -12,6 +12,6 @@ This is a backend API for managing and analyzing sales data. It provides endpoin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-backend.git
+   git clone https://github.com/AstickDutta/lumel-assesment.git
    cd lumel-assessment
   
